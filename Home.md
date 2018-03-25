@@ -7,6 +7,10 @@
 
 ## How To
 
+## Command Line Magic
+
+* [Count Number of Web Server Processes](magic/webprocesses)
+
 ## Cheat Sheets
 
 * [Tar](cheat/tar)
