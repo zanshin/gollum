@@ -29,6 +29,7 @@
 * [Show TCP and UDP Ports Being Listened to](magic/listening)
 * [Show Which Processes are Using Port `80`](magic/listen80)
 * [Show Space Usage of Directories Only](magic/dirspace)
+* [Tail Log and Highlight Errors](magic/tail)
 
 
 ## Cheat Sheets
