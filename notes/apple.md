@@ -16,9 +16,9 @@
 14. Apple TV
 
 Work provided
-1. 2011 27" iMac
-2. 2015 27" iMac
-3. 2013 13" MacBook Pro (retina)
-4. 27" Thunderbolt Cinema Screen x2
-5. iPad (original)
-6. 2017 13" MacBook Pro with TouchBar and Retina 
+1. 2011 27" iMac  
+2. 2015 27" iMac  
+3. 2013 13" MacBook Pro (retina)  
+4. 27" Thunderbolt Cinema Screen x2  
+5. iPad (original)  
+6. 2017 13" MacBook Pro with TouchBar and Retina   
