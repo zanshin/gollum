@@ -12,7 +12,7 @@
 * [Count Number of Web Server Processes](magic/webprocesses)
 * [Display `.conf` Contents, Excluding Comments and Blank Lines](magic/excludelines)
 * [Display `inodes` User per File System](magic/inodes)
-
+* [Find All Files of a Size and Display Human Readable Size](magic/filesize)
 
 
 ## Cheat Sheets
