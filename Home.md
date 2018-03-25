@@ -7,3 +7,4 @@
 * [Tar](cheat/tar)
 * [IRC](cheat/irc)
 * [Find](cheat/find)
+* [Netmask & CIDR](cheat/netmask)
