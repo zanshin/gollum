@@ -9,4 +9,4 @@
 
 ## Same thing without regex
 
-    find . -name '*.php' |rev |cut -d/ -f2- |rev |sort |uniq
+    find . -name '*.php' | rev | cut -d/ -f2- | rev | sort | uniq
