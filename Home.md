@@ -10,6 +10,8 @@
 ## Command Line Magic
 
 * [Count Number of Web Server Processes](magic/webprocesses)
+* [Display `.conf` Contents, Excluding Comments and Blank Lines](magic/excludelines)
+
 
 ## Cheat Sheets
 
