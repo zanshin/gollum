@@ -26,6 +26,7 @@
 * [Show FQDN on SunOS](magic/fqdn)
 * [Show IPv4 and IPv6 Addresses per Interface](magic/showip)
 * [Show Linux Distribution Information](magic/distroinfo)
+* [Show TCP and UDP Ports Being Listened to](magic/listening)
 
 ## Cheat Sheets
 
