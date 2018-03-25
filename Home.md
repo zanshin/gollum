@@ -23,6 +23,7 @@
 * [Make Slideshow from `jpg`](magic/slideshow)
 * [Scan Network without `nmap`](magic/networkscan)
 * [Scan Internal Network for Hosts Listening on Port `22`](magic/network22)
+* [Show FQDN on SunOS](magic/fqdn)
 
 
 ## Cheat Sheets
