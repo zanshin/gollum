@@ -1,5 +1,9 @@
 # Notes, how-tos, and cheat sheets
 
+## Notes
+
+* [Home IP Address](notes/ip)
+
 ## How To
 
 ## Cheat Sheets
