@@ -4,4 +4,4 @@
 
 ## Cheat Sheets
 
-* [Tar a directory](cheat/tar)
+* [Tar](cheat/tar)
