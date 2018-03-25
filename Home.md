@@ -28,6 +28,7 @@
 * [Show Linux Distribution Information](magic/distroinfo)
 * [Show TCP and UDP Ports Being Listened to](magic/listening)
 * [Show Which Processes are Using Port `80`](magic/listen80)
+* [Show Space Usage of Directories Only](magic/dirspace)
 
 
 ## Cheat Sheets
