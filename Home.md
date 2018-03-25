@@ -6,3 +6,4 @@
 
 * [Tar](cheat/tar)
 * [IRC](cheat/irc)
+* [Find](cheat/finf)
