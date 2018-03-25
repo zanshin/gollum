@@ -5,3 +5,4 @@
 ## Cheat Sheets
 
 * [Tar](cheat/tar)
+* [IRC](cheat/irc)
