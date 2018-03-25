@@ -16,6 +16,7 @@
 * [Find All Files Last Modified in Particular Year](magic/yearmodified)
 * [Find Duplicate Images in a Directory](magic/imagedups)
 * [Find Package for Executable Using `which` and `rpm`](magic/findexecutabe)
+* [List 5 Largest Files in Directory, without Crossing File System Boundaries](magic/largestcwd)
 
 
 ## Cheat Sheets
