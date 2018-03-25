@@ -3,3 +3,5 @@
 ## How To
 
 ## Cheat Sheets
+
+* [Tar a directory](cheat/tar)
