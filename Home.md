@@ -8,3 +8,4 @@
 * [IRC](cheat/irc)
 * [Find](cheat/find)
 * [Netmask & CIDR](cheat/netmask)
+* [Delete Specific Line in Any File](cheat/deleteline)
