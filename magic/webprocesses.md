@@ -2,4 +2,6 @@
 
     ps -ef | grep "[h]ttpd" | wc -l
 
+Or
+
     pgrep -c httpd
