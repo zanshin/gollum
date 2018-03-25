@@ -25,6 +25,7 @@
 * [Scan Internal Network for Hosts Listening on Port `22`](magic/network22)
 * [Show FQDN on SunOS](magic/fqdn)
 * [Show IPv4 and IPv6 Addresses per Interface](magic/showip)
+* [Show Linux Distribution Information](magic/distroinfo)
 
 ## Cheat Sheets
 
