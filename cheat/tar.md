@@ -2,7 +2,7 @@ Tar a directory
 
     tar -cvzf target.tgz sourceDir
 
-Switches:
+Switches:  
 -c - create archive  
 -v - verbose  
 -z - compress  
