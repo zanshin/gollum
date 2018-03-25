@@ -15,3 +15,4 @@
 * [Netmask & CIDR](cheat/netmask)
 * [Delete Specific Line in Any File](cheat/deleteline)
 * [duckduckgo !bang operators](cheat/ddg)
+* [ROT13](cheat/rot13)
