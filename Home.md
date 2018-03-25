@@ -20,6 +20,7 @@
 * [List 20 Largest Files or Folders Under Current Directory](magic/largestfolder)
 * [List Open `ssh` Tunnels](magic/sshtunnels)
 * [List top `404` Errors in Descending Order](list404)
+* [Make Slideshow from `jpg`](magic/slideshow)
 
 
 ## Cheat Sheets
