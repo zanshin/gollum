@@ -19,6 +19,7 @@
 * [List 5 Largest Files in Directory, without Crossing File System Boundaries](magic/largestcwd)
 * [List 20 Largest Files or Folders Under Current Directory](magic/largestfolder)
 * [List Open `ssh` Tunnels](magic/sshtunnels)
+* [List top `404` Errors in Descending Order](list404)
 
 
 ## Cheat Sheets
