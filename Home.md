@@ -13,6 +13,7 @@
 * [Display `.conf` Contents, Excluding Comments and Blank Lines](magic/excludelines)
 * [Display `inodes` User per File System](magic/inodes)
 * [Find All Files of a Size and Display Human Readable Size](magic/filesize)
+* [Find All Files Last Modified in Particular Year](magic/yearmodified)
 
 
 ## Cheat Sheets
