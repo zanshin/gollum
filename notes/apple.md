@@ -15,7 +15,7 @@
 13. Apple Watch
 14. Apple TV
 
-Work provided
+Work provided:  
 1. 2011 27" iMac  
 2. 2015 27" iMac  
 3. 2013 13" MacBook Pro (retina)  
