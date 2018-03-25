@@ -21,6 +21,7 @@
 * [List Open `ssh` Tunnels](magic/sshtunnels)
 * [List top `404` Errors in Descending Order](list404)
 * [Make Slideshow from `jpg`](magic/slideshow)
+* [Scan Network without `nmap`](magic/networkscan)
 
 
 ## Cheat Sheets
