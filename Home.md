@@ -9,3 +9,4 @@
 * [Find](cheat/find)
 * [Netmask & CIDR](cheat/netmask)
 * [Delete Specific Line in Any File](cheat/deleteline)
+* [duckduckgo !bang operators](cheat/ddg)
