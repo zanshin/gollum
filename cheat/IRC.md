@@ -13,6 +13,6 @@ R = Block unidentified
 w = See wallops  
 Z = Connect securely   
 
-I have ZiRg set
+I have `ZiRg` set
 
 From: [https://freenode.net/kb/answer/usermodes](https://freenode.net/kb/answer/usermodes) 
