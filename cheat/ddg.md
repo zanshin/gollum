@@ -1,5 +1,6 @@
 ## Duckduckgo !bang operators
 
+### Google
 `!g` -- Google  
 `!i` -- Google images  
 `!m` -- Google maps  
