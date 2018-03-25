@@ -15,7 +15,7 @@
 * [Find All Files of a Size and Display Human Readable Size](magic/filesize)
 * [Find All Files Last Modified in Particular Year](magic/yearmodified)
 * [Find Duplicate Images in a Directory](magic/imagedups)
-
+* [Find Package for Executable Using `which` and `rpm`](magic/findexecutabe)
 
 
 ## Cheat Sheets
