@@ -14,6 +14,8 @@
 * [Display `inodes` User per File System](magic/inodes)
 * [Find All Files of a Size and Display Human Readable Size](magic/filesize)
 * [Find All Files Last Modified in Particular Year](magic/yearmodified)
+* [Find Duplicate Images in a Directory](magic/imagedups)
+
 
 
 ## Cheat Sheets
