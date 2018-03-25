@@ -17,6 +17,7 @@
 * [Find Duplicate Images in a Directory](magic/imagedups)
 * [Find Package for Executable Using `which` and `rpm`](magic/findexecutabe)
 * [List 5 Largest Files in Directory, without Crossing File System Boundaries](magic/largestcwd)
+* [List 20 Largest Files or Folders Under Current Directory](magic/largestfolder)
 
 
 ## Cheat Sheets
