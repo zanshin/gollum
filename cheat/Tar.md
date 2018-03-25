@@ -1,4 +1,4 @@
-Tar a directory
+# Tar a directory
 
     tar -cvzf target.tgz sourceDir
 
@@ -7,3 +7,7 @@ Switches:
 -v - verbose  
 -z - compress  
 -f - target file name  
+
+# Untar
+
+    tar -xvzf /path/to/yourfile.tgz
