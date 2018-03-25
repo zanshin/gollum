@@ -1,4 +1,4 @@
-# A Wiki to store my notes, how-tos, and cheat sheets in.
+# Notes, how-tos, and cheat sheets
 
 ## How To
 
