@@ -24,6 +24,7 @@
 * [Lookup DNS](how/dns)
 * [Parse a HTTP Log for Top Hits](how/parselog)
 * [Rebuild Physical/Virtual Disk Layout](how/rebuildvg)
+* [Remove Package via `dpkg` and `apt`](how/removepkg)
 
 
 ## Command Line Magic
