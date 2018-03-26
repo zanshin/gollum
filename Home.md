@@ -17,6 +17,7 @@
 * [Diff Two Directories](how/diffdir)
 * [Empty Log File While Keeping its File Handle](how/emptylog)
 * [Find Space Used](how/spaceused)
+* [Find Which Ports are Listening](how/portslisten)
 
 
 ## Command Line Magic
