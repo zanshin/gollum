@@ -19,6 +19,7 @@
 * [Find Space Used](how/spaceused)
 * [Find Which Ports are Listening](how/portslisten)
 * [Foreground, Background, and Jobs](how/jobs)
+* [Inline Editting](how/inlineedit)
 
 
 ## Command Line Magic
