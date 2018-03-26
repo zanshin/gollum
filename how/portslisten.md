@@ -1,3 +1,3 @@
 ## Find which ports are listening
 
-    sudo lsof -I | grep LISTEN
+    sudo lsof -i | grep LISTEN
