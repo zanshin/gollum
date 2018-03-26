@@ -1,0 +1,3 @@
+## Foreground, background, and jobs
+
+If you are trapped by a long running command `control-z` will suspend the command and return control to you. Running the command `job` will list the suspended command(s) or process(es). Using `fg` will return you to the suspended command/process. Using `bg` will resume the suspended command/process in the background. If multiple commands/processes have been suspended, `%` followed by the number of the command/process from the `jobs` output will let you interact against that one command/process.
