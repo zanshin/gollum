@@ -32,6 +32,7 @@
 * [Show File System Free Space](how/freespace)
 * [Tail `-f grep`](how/tailgrep)
 * [Test a Host and Port](how/testhost)
+* [Test HTTP](how/testhttp)
 
 
 ## Command Line Magic
