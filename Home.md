@@ -21,6 +21,7 @@
 * [Foreground, Background, and Jobs](how/jobs)
 * [Inline Editting](how/inlineedit))
 * [JVM Thread or Process Dumps](how/jvmdumps)
+* [Lookup DNS](how/dns)
 
 
 ## Command Line Magic
