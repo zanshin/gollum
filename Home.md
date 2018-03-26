@@ -23,6 +23,7 @@
 * [JVM Thread or Process Dumps](how/jvmdumps)
 * [Lookup DNS](how/dns)
 * [Parse a HTTP Log for Top Hits](how/parselog)
+* [Rebuild Physical/Virtual Disk Layout](how/rebuildvg)
 
 
 ## Command Line Magic
