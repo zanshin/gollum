@@ -22,6 +22,7 @@
 * [Inline Editting](how/inlineedit))
 * [JVM Thread or Process Dumps](how/jvmdumps)
 * [Lookup DNS](how/dns)
+* [Parse a HTTP Log for Top Hits](how/parselog)
 
 
 ## Command Line Magic
