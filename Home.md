@@ -9,6 +9,7 @@
 
 * [Configure Multiple Things with Same Static IP Address](how/staticip)
 * [Copy ssh Key to Machine that Doesn't have ssh-copy Installed](how/copyssh)
+* [Create a Random 10-digit Number](how/random)
 
 ## Command Line Magic
 
