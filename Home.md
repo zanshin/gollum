@@ -18,6 +18,7 @@
 * [Empty Log File While Keeping its File Handle](how/emptylog)
 * [Find Space Used](how/spaceused)
 * [Find Which Ports are Listening](how/portslisten)
+* [Foreground, Background, and Jobs](how/jobs)
 
 
 ## Command Line Magic
