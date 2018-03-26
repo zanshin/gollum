@@ -7,6 +7,9 @@
 
 ## How To
 
+* [Configure Multiple Things with Same Static IP Address](how/staticip)
+
+
 ## Command Line Magic
 
 * [Count Number of Web Server Processes](magic/webprocesses)
