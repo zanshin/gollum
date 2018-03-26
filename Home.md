@@ -15,6 +15,7 @@
 * [Determine CPU and Memory Information](how/cpuinfo)
 * [Determine OS Installed](how/os)
 * [Diff Two Directories](how/diffdir)
+* [Empty Log File While Keeping its File Handle](how/emptylog)
 
 
 ## Command Line Magic
