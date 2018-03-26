@@ -14,6 +14,7 @@
 * [Delete Old Logs](how/oldlogs)
 * [Determine CPU and Memory Information](how/cpuinfo)
 * [Determine OS Installed](how/os)
+* [Diff Two Directories](how/diffdir)
 
 
 ## Command Line Magic
