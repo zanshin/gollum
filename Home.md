@@ -27,7 +27,7 @@
 * [Remove Package via `dpkg` and `apt`](how/removepkg)
 * [Replace String in All Files in Current Directory](how/replacestring)
 * [Set File Access Controls](how/acl)
-* [Show 10 Largest Directories at Top Level(how/topsize)
+* [Show 10 Largest Directories at Top Level](how/topsize)
 
 
 ## Command Line Magic
