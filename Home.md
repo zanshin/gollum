@@ -20,7 +20,7 @@
 * [Find Which Ports are Listening](how/portslisten)
 * [Foreground, Background, and Jobs](how/jobs)
 * [Inline Editting](how/inlineedit))
-* [JVM Thread or Process Dumps](how/jvmdumps
+* [JVM Thread or Process Dumps](how/jvmdumps)
 
 
 ## Command Line Magic
