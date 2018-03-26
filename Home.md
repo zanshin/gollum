@@ -8,7 +8,7 @@
 ## How To
 
 * [Configure Multiple Things with Same Static IP Address](how/staticip)
-
+* [Copy ssh Key to Machine that Doesn't have ssh-copy Installed](how/copyssh)
 
 ## Command Line Magic
 
