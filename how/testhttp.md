@@ -1,0 +1,5 @@
+## Test HTTP
+
+    GET / HTTP/1.1
+    Host: 127.0.0.1
+    (plus two new lines)
