@@ -26,6 +26,7 @@
 * [Rebuild Physical/Virtual Disk Layout](how/rebuildvg)
 * [Remove Package via `dpkg` and `apt`](how/removepkg)
 * [Replace String in All Files in Current Directory](how/replacestring)
+* [Set File Access Controls](how/acl)
 
 
 ## Command Line Magic
