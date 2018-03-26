@@ -33,6 +33,7 @@
 * [Tail `-f grep`](how/tailgrep)
 * [Test a Host and Port](how/testhost)
 * [Test HTTP](how/testhttp)
+* [Test SSL Certificate](how/testcert)
 
 
 ## Command Line Magic
