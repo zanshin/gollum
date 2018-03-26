@@ -13,6 +13,7 @@
 * [Delete All Files Older than 10 Days](how/deleteold)
 * [Delete Old Logs](how/oldlogs)
 * [Determine CPU and Memory Information](how/cpuinfo)
+* [Determine OS Installed](how/os)
 
 
 ## Command Line Magic
