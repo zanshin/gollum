@@ -31,6 +31,7 @@
 * [Show Domain Registration Date](how/domaindate)
 * [Show File System Free Space](how/freespace)
 * [Tail `-f grep`](how/tailgrep)
+* [Test a Host and Port](how/testhost)
 
 
 ## Command Line Magic
