@@ -12,6 +12,7 @@
 * [Create a Random 10-digit Number](how/random)
 * [Delete All Files Older than 10 Days](how/deleteold)
 * [Delete Old Logs](how/oldlogs)
+* [Determine CPU and Memory Information](how/cpuinfo)
 
 
 ## Command Line Magic
