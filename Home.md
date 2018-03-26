@@ -16,6 +16,7 @@
 * [Determine OS Installed](how/os)
 * [Diff Two Directories](how/diffdir)
 * [Empty Log File While Keeping its File Handle](how/emptylog)
+* [Find Space Used](how/spaceused)
 
 
 ## Command Line Magic
